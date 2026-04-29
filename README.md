@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="./assets/Shinoa.gif" width="100%" />
+  <img src="./assets/Soft And Wet.gif" width="100%" />
   
   <h1>✧･ﾟ: *✧ Ikitsue (Second Account) ✧* :･ﾟ✧</h1>
   
